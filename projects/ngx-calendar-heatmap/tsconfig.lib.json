@@ -4,6 +4,7 @@
   "compilerOptions": {
     "outDir": "../../out-tsc/lib",
     "declaration": true,
+    "allowSyntheticDefaultImports": true,
     "declarationMap": true,
     "inlineSources": true,
     "types": []
