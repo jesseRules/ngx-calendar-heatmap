@@ -1,0 +1,58 @@
+{
+  "name": "ngx-calendar-heatmap",
+  "version": "0.1.4",
+  "description": "Angular component for d3.js calendar heatmap graph.",
+  "homepage": "https://github.com/jesseRules/ngx-calendar-heatmap#readme",
+  "author": "Jesse Carlberg <mail@jessecarlbergproduction.com> (https://jessecarlbergproduction.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseRules/ngx-calendar-heatmap"
+  },
+  "bugs": {
+    "url": "https://github.com/jesseRules/ngx-calendar-heatmap/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^14.2.7",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "d3": "^7.6.1",
+    "rxjs": "^7.5.7",
+    "zone.js": "^0.11.8",
+    "ngx-moment": "^6.0.2",
+    "rxjs-compat": "^6.6.7"
+  },
+  "devDependencies": {
+    "@angular/compiler": "^14.2.7",
+    "@angular/compiler-cli": "^14.2.7",
+    "@angular/core": "^14.2.7",
+    "@types/d3": "^7.4.0",
+    "@types/node": "^18.11.3",
+    "concurrently": "^7.4.0",
+    "core-js": "^3.25.5",
+    "cssmin": "^0.4.3",
+    "minifier": "^0.8.1",
+    "rollup": "^3.2.3",
+    "systemjs": "^6.13.0",
+    "typescript": "^4.8.4",
+    "zone.js": "^0.11.8"
+  },
+  "engines": {
+    "node": "18.10.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular2",
+    "ngx",
+    "angularjs",
+    "component",
+    "calendar",
+    "heatmap",
+    "graph",
+    "visualization",
+    "chart",
+    "time",
+    "d3js",
+    "d3"
+  ]
+}
